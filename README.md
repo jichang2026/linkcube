@@ -162,7 +162,7 @@ LinkCube 官方目前提示：
 
 ## 🔗 相关链接
 
-* **官方网站：** https://www.linkcube.top/
+* **官方网站最新登录入口：** https://www.linkcube.top/
 * **同类机场推荐：** https://www.bj999.cc/more-airport/no1.html
 
 > 本 README 仅用于整理公开的套餐及使用说明，具体价格、线路、节点和服务规则请以 LinkCube 官方页面的最新信息为准。
